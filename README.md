@@ -8,13 +8,13 @@ Dieses öffentliche Repository stellt ausschließlich die veröffentlichten Wind
 
 Für jede stabile Version wird ein GitHub-Release angelegt:
 
-- **Tag:** `v<Version>`, beispielsweise `v0.2.94`
+- **Tag:** `v<Version>`, beispielsweise `v0.2.95`
 - **Release-Titel:** `Harzi-CnC-TA-Client v<Version>`
 - **Release-Asset:** `Harzi-CnC-TA-Client-Setup-<Version>-x64.exe`
 
 Beispiel für Version 0.2.94:
 
-`Harzi-CnC-TA-Client-Setup-0.2.94-x64.exe`
+`Harzi-CnC-TA-Client-Setup-0.2.95-x64.exe`
 
 Die Versionsnummer im Tag und im Dateinamen muss exakt übereinstimmen.
 
